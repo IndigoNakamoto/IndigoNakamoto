@@ -35,7 +35,7 @@ A proprietary SaaS platform that turns long-form video/audio into a queryable kn
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I identified the Ordinals trend early and shipped the first explorer for the Litecoin blockchain. It allowed users to explore inscriptions and seamlessly inscribe data onto individual lites via BTCPayServer.
+I catalyzed the creation of the Litecoin Ordinals protocol by **funding the development bounty** ([covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
 * **Status:** 🏛️ **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
