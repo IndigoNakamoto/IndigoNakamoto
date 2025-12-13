@@ -29,14 +29,14 @@ The official AI assistant for the Litecoin Foundation. A production-hardened RAG
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
 **Intelligent Media Analysis.**
 A proprietary SaaS platform that turns long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables semantic search across hours of content.
-* **Status:** 🟠 **Read-Only Showcase** (Ingestion Paused for OpEx Optimization)
+* **Status:** 🟠 **Archived Showcase** (Cost-Optimized)
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Key Feature:** Deep-tech data pipeline: Ingestion → Transcription → Embedding → Retrieval.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I catalyzed the creation of the Litecoin Ordinals protocol by **funding the development bounty** ([covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
+I **catalyzed the creation** of the Litecoin Ordinals protocol by funding the development bounty ([covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
 * **Status:** 🏛️ **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
