@@ -1,6 +1,6 @@
 # Hi, I'm Indigo.
 
-### AI-Native Product Engineer | Systems Architect | Builder
+AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist
 
 I specialize in **high-velocity prototyping** and **secure systems architecture**. I don't just write code; I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure at 10x the speed of traditional teams.
 
