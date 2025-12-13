@@ -1,4 +1,4 @@
-# Hi, I'm Indigo Nakamoto.
+# Hi, I'm Indigo.
 
 ### AI-Native Product Engineer | Systems Architect | Builder
 
