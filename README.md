@@ -11,7 +11,7 @@ My focus is on the intersection of **Artificial Intelligence (RAG/Vector Search)
 ### 🛠️ The Philosophy: "The Architect Who Ships"
 I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I handle the implementation details so I can focus on what matters: **System Design, Security, and User Experience.**
 
-* **Velocity:** Shipped the official Litecoin AI infrastructure (35k LOC, 9 microservices) in **44 days**.
+* **Velocity:** Shipped the official Litecoin AI infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
 * **Security:** Architected a 7-Layer Abuse Prevention Stack (Atomic Rate Limiting, HMAC, Turnstile).
 * **Reliability:** Designing for 99.9% uptime and <50ms latency.
 
@@ -32,6 +32,7 @@ A proprietary SaaS platform that turns long-form video/audio into a queryable kn
 * **Status:** 🟠 **Read-Only Showcase** (Ingestion Paused for OpEx Optimization)
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Key Feature:** Deep-tech data pipeline: Ingestion → Transcription → Embedding → Retrieval.
+* **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
@@ -45,6 +46,7 @@ I catalyzed the creation of the Litecoin Ordinals protocol by **funding the deve
 A clean, modern directory for managing open-source projects and donations within the ecosystem.
 * **Status:** 🟢 **Active / Production**
 * **Tech:** Next.js, TypeScript, Tailwind CSS.
+* **Impact:** Supporting 19 FOSS projects with $62,418+ raised and $54,289+ matched in donations.
 
 ---
 
