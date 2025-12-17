@@ -22,10 +22,10 @@ I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, 
 #### 1. [Litecoin Knowledge Hub](https://litecoin.com/projects/litecoin-knowledge-hub) (Official AI Assistant)
 **The Enterprise RAG Platform for Litecoin.**
 The official AI-powered conversational tool for the Litecoin Foundation, providing accurate, vetted answers from a trusted knowledge base. Built solo with a production-hardened RAG pipeline designed for reliability and viral traffic.
-* **Status:** 🟢 **Active / Near Launch** (Phase 1 core complete; final UI/content + litecoin.com integration in progress)
+* **Status:** 🟢 **Live** (Now available at litecoin.com/chat)
 * **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search, Docker.
 * **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching, Cost-Based Throttling.
-* **Live Demo:** [chat.lite.space](https://chat.lite.space)
+* **Live:** [litecoin.com/chat](https://litecoin.com/chat)
 * **GitHub:** [Litecoin-Knowledge-Hub](https://github.com/IndigoNakamoto/Litecoin-Knowledge-Hub)
 
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
