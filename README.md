@@ -83,7 +83,7 @@ Before building systems, I research the theory behind them. I have been using LL
 ---
 
 ### Contact
-I am available for **Enterprise Consulting**, **Fractional Architecture**, and **High-Velocity Prototyping**.
+I am available for **Enterprise Consulting** (De-risking AI integration), **Fractional Architecture** (Unifying fragmented ecosystems), and **High-Velocity Prototyping** (MVP in weeks, not months).
 
 * **Twitter/X:** [@indigo_nakamoto](https://x.com/indigo_nakamoto)
 * **Location:** San Francisco Bay Area
