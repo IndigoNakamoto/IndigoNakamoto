@@ -1,6 +1,6 @@
 # Hi, I'm Indigo.
 
-AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist | [litecoin.com/chat](https://litecoin.com/chat) |  [Citeio.com](https://citeio.com) | [litecoin.com/projects](https://litecoin.com/projects) |  [nkmag.com](https://nkmag.com)
+AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist 
 
 I specialize in **high-velocity prototyping** and **secure systems architecture**. I don't just write code; I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure at 10x the speed of traditional teams.
 
@@ -38,7 +38,7 @@ A proprietary SaaS platform that turns long-form video/audio into a queryable kn
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I **catalyzed the creation** of the Litecoin Ordinals protocol by funding the development bounty ([covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
+I **catalyzed the creation** of the Litecoin Ordinals protocol by funding the development bounty ([original bounty thread](https://x.com/indigo_nakamoto/status/1624247793438322689), [covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
 * **Status:** **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
