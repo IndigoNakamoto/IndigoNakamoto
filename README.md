@@ -13,7 +13,7 @@ My focus is on the intersection of **Artificial Intelligence (RAG/Vector Search)
 ### The Philosophy: "The Architect Who Ships"
 With AI-assisted development, I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I automate implementation details to focus on high-leverage decisions: **System Design, Network Topology, and Security.**
 
-* **Velocity:** Shipped **production-grade** infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
+* **Velocity:** Shipped **production-grade** infrastructure (9 Microservices / Full-Stack Enterprise Architecture) in **44 days (solo)**.
 * **Security:** Architected a 7-Layer Abuse Prevention Stack (Atomic Rate Limiting, HMAC, Turnstile).
 * **Reliability:** Designing for 99.9% uptime and <50ms latency.
 
@@ -85,7 +85,7 @@ Before building systems, I research the theory behind them. I have been using LL
 ### Let's Work Together
 I'm available for:
 * **Enterprise AI Consulting**: De-risk your AI integration with battle-tested patterns.
-* **Fractional Architecture**: Unify fragmented systems (integrating modern microservices into legacy domains).
+* **Fractional Architecture**: Modernizing Legacy Domains: Seamlessly injecting AI microservices into existing infrastructure via reverse-proxy architectures (no rewrites required).
 * **Rapid Prototyping**: Ship MVPs in weeks, not months.
 
 **Reach me on X**:
