@@ -23,34 +23,34 @@ I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, 
 
 #### 1. [Litecoin.com/chat](https://litecoin.com/chat) (Official AI Assistant)
 **The Enterprise Agentic RAG Platform for Litecoin.**
-The official AI-powered conversational tool for the Litecoin Foundation. Solo-architected a production-hardened RAG pipeline engineered for reliability and high-concurrency traffic.
-* **Status:** **Live**
+The official AI-powered conversational tool for the Litecoin Foundation. I architected the full RAG pipeline, engineered for reliability and high-concurrency traffic.
+* **Status:** 🟢 **Live / Production**
 * **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search.
 * **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching.
 * **Links:** [🌐 Live App](https://litecoin.com/chat) | [💻 GitHub](https://github.com/IndigoNakamoto/Litecoin-Knowledge-Hub)
 
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
 **Intelligent Media Analysis.**
-A proprietary SaaS platform that turns long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables semantic search.
-* **Status:** **Live Archive** (Reference Implementation)
+A proprietary SaaS platform that transforms long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables deep semantic search.
+* **Status:** 🟡 **Live Archive** (Reference Implementation)
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
 * **Links:** [🌐 Live App](https://citeio.com)
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty, [covered by Binance](https://www.binance.com/en/square/post/237666), then shipped the first explorer to visualize it.
-* **Status:** **Archived** (Historical Reference)
+I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty ([covered by Binance](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize the chain data.
+* **Status:** ⚪ **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
-* **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
+* **Innovation:** Full-stack integration of crypto payments for on-chain data storage.
 * **Links:** [💻 GitHub Repo](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) | [📜 Bounty Thread](https://x.com/indigo_nakamoto/status/1624247793438322689)
 
 #### 4. [Litecoin.com/Projects](https://litecoin.com/projects) (Ecosystem)
 **Community Infrastructure.**
 A clean, modern directory for managing open-source projects and donations within the ecosystem.
-* **Status:** **Active / Production**
+* **Status:** 🟢 **Active / Production**
 * **Tech:** Next.js, TypeScript, Tailwind CSS.
-* **Impact:** Supporting 19 FOSS projects with $62,418+ raised and $54,289+ matched in donations.
+* **Impact:** Supporting 19 FOSS projects with **$62,418+ raised** and **$54,289+ matched** in donations.
 * **Links:** [🌐 Live App](https://litecoin.com/projects)
 
 ---
