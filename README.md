@@ -1,5 +1,7 @@
 # Hi, I'm Indigo.
 
+*Building the bridge between UTXO Blockchains and Artificial Intelligence.*
+
 AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist 
 
 I specialize in **high-velocity prototyping** and **secure systems architecture**. I don't just write code; I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure at 10x the speed of traditional teams.
@@ -11,7 +13,7 @@ My focus is on the intersection of **Artificial Intelligence (RAG/Vector Search)
 ### The Philosophy: "The Architect Who Ships"
 I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I handle the implementation details so I can focus on what matters: **System Design, Security, and User Experience.**
 
-* **Velocity:** Shipped the official Litecoin AI infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
+* **Velocity:** Shipped **production-hardened** infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
 * **Security:** Architected a 7-Layer Abuse Prevention Stack (Atomic Rate Limiting, HMAC, Turnstile).
 * **Reliability:** Designing for 99.9% uptime and <50ms latency.
 
@@ -21,7 +23,7 @@ I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, 
 
 #### 1. [Litecoin Knowledge Hub](https://litecoin.com/projects/litecoin-knowledge-hub) (Official AI Assistant)
 **The Enterprise RAG Platform for Litecoin.**
-The official AI-powered conversational tool for the Litecoin Foundation, providing accurate, vetted answers from a trusted knowledge base. Built solo with a production-hardened RAG pipeline designed for reliability and viral traffic.
+The official AI-powered conversational tool for the Litecoin Foundation, providing accurate, vetted answers from a trusted knowledge base. Solo-architected a production-hardened RAG pipeline engineered for reliability and high-concurrency traffic.
 * **Status:** **Live** (Now available at litecoin.com/chat)
 * **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search, Docker.
 * **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching, Cost-Based Throttling.
@@ -31,14 +33,14 @@ The official AI-powered conversational tool for the Litecoin Foundation, providi
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
 **Intelligent Media Analysis.**
 A proprietary SaaS platform that turns long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables semantic search across hours of content.
-* **Status:** **Archived Showcase** (Cost-Optimized)
+* **Status:** **Live Archive** (Reference Implementation)
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Key Feature:** Deep-tech data pipeline: Ingestion → Transcription → Embedding → Retrieval.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I **catalyzed the creation** of the Litecoin Ordinals protocol by funding the development bounty ([original bounty thread](https://x.com/indigo_nakamoto/status/1624247793438322689), [covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
+I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty ([original bounty thread](https://x.com/indigo_nakamoto/status/1624247793438322689), [covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
 * **Status:** **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
@@ -74,7 +76,7 @@ A clean, modern directory for managing open-source projects and donations within
 ---
 
 ### Writing & Research
-Before building systems, I research the theory behind them. I have been using LLMs to synthesize complex economic and technical research since the GPT-3 Beta era.
+Before building systems, I research the theory behind them. I have been using LLMs to synthesize complex economic and technical research since the **GPT-3 Beta era**.
 * **[Nakamotoist](https://nkmag.com)**: A curated collection of research on Monetary History, Scrypt Mechanics, and Block Subsidy Theory.
 
 ---
