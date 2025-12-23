@@ -21,29 +21,29 @@ I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, 
 
 ### Featured Work
 
-#### 1. [Litecoin Knowledge Hub](https://litecoin.com/projects/litecoin-knowledge-hub) (Official AI Assistant)
-**The Enterprise RAG Platform for Litecoin.**
-The official AI-powered conversational tool for the Litecoin Foundation, providing accurate, vetted answers from a trusted knowledge base. Solo-architected a production-hardened RAG pipeline engineered for reliability and high-concurrency traffic.
-* **Status:** **Live** (Now available at litecoin.com/chat)
-* **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search, Docker.
-* **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching, Cost-Based Throttling.
-* **Live:** [litecoin.com/chat](https://litecoin.com/chat)
-* **GitHub:** [Litecoin-Knowledge-Hub](https://github.com/IndigoNakamoto/Litecoin-Knowledge-Hub)
+#### 1. [Litecoin.com/chat](https://litecoin.com/chat) (Official AI Assistant)
+**The Enterprise Agentic RAG Platform for Litecoin.**
+The official AI-powered conversational tool for the Litecoin Foundation. Solo-architected a production-hardened RAG pipeline engineered for reliability and high-concurrency traffic.
+* **Status:** **Live**
+* **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search.
+* **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching.
+* **Links:** [🌐 Live App](https://litecoin.com/chat) | [💻 GitHub](https://github.com/IndigoNakamoto/Litecoin-Knowledge-Hub)
 
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
 **Intelligent Media Analysis.**
-A proprietary SaaS platform that turns long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables semantic search across hours of content.
+A proprietary SaaS platform that turns long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables semantic search.
 * **Status:** **Live Archive** (Reference Implementation)
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
-* **Key Feature:** Deep-tech data pipeline: Ingestion → Transcription → Embedding → Retrieval.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
+* **Links:** [🌐 Live App](https://citeio.com)
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty ([original bounty thread](https://x.com/indigo_nakamoto/status/1624247793438322689), [covered by Binance/BitcoinWorld](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize it.
+I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty, then shipped the first explorer to visualize it.
 * **Status:** **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Key Feature:** Full-stack integration of crypto payments for on-chain data storage.
+* **Links:** [💻 GitHub Repo](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) | [📜 Bounty Thread](https://x.com/indigo_nakamoto/status/1624247793438322689)
 
 #### 4. [Litecoin.com/Projects](https://litecoin.com/projects) (Ecosystem)
 **Community Infrastructure.**
@@ -51,6 +51,7 @@ A clean, modern directory for managing open-source projects and donations within
 * **Status:** **Active / Production**
 * **Tech:** Next.js, TypeScript, Tailwind CSS.
 * **Impact:** Supporting 19 FOSS projects with $62,418+ raised and $54,289+ matched in donations.
+* **Links:** [🌐 Live App](https://litecoin.com/projects)
 
 ---
 
