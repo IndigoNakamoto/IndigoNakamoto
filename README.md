@@ -35,7 +35,7 @@ A proprietary SaaS platform that transforms long-form video/audio into a queryab
 * **Status:** 🟡 **Read-Only Reference Deployment**
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
-* **Links:** [🌐 Live App](https://citeio.com)
+* **Links:** [🌐 Live App](https://citeio.com) | [💻 GitHub](https://github.com/IndigoNakamoto/Citeio.com)  
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
@@ -43,7 +43,7 @@ I **catalyzed** the Litecoin Ordinals ecosystem by funding the development bount
 * **Status:** ⚪ **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
 * **Impact:** Visualized data for over **30 million inscriptions**.
-* **Links:** [💻 GitHub Repo](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) | [📜 Bounty Thread](https://x.com/indigo_nakamoto/status/1624247793438322689)
+* **Links:** [📜 Bounty Thread](https://x.com/indigo_nakamoto/status/1624247793438322689) | [💻 GitHub](https://github.com/IndigoNakamoto/Litecoin.com-Projects-Donate)
 
 #### 4. [Litecoin.com/Projects](https://litecoin.com/projects) (Ecosystem)
 **Community Infrastructure.**
@@ -51,7 +51,7 @@ A clean, modern directory for managing open-source projects and donations within
 * **Status:** 🟢 **Active / Production**
 * **Tech:** Next.js, TypeScript, Tailwind CSS.
 * **Impact:** Supporting 19 FOSS projects with **$62,418+ raised** and **$54,289+ matched**.
-* **Links:** [🌐 Live App](https://litecoin.com/projects)
+* **Links:** [🌐 Live App](https://litecoin.com/projects) | [💻 GitHub](https://github.com/IndigoNakamoto/Citeio.com)  
 
 ---
 
