@@ -2,18 +2,18 @@
 
 *Building the bridge between UTXO Blockchains and Artificial Intelligence.*
 
-AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist 
+AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist
 
-I specialize in **high-velocity prototyping** and **secure systems architecture**. I don't just write code; I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure at 10x the speed of traditional teams.
+I specialize in **high-velocity prototyping** and **secure systems architecture**. I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure significantly faster than traditional teams. I've been exploring AI-assisted development workflows since the GPT-3 beta era, pioneering techniques that are now becoming industry standard.
 
 My focus is on the intersection of **Artificial Intelligence (RAG/Vector Search)** and **Decentralized Finance (UTXO Blockchains)**.
 
 ---
 
 ### The Philosophy: "The Architect Who Ships"
-I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I handle the implementation details so I can focus on what matters: **System Design, Security, and User Experience.**
+With AI-assisted development, I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I automate implementation details to focus on high-leverage decisions: **System Design, Network Topology, and Security.**
 
-* **Velocity:** Shipped **production-hardened** infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
+* **Velocity:** Shipped **production-grade** infrastructure (35k LOC, 9 microservices) in **44 days (solo)**.
 * **Security:** Architected a 7-Layer Abuse Prevention Stack (Atomic Rate Limiting, HMAC, Turnstile).
 * **Reliability:** Designing for 99.9% uptime and <50ms latency.
 
@@ -23,7 +23,7 @@ I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, 
 
 #### 1. [Litecoin.com/chat](https://litecoin.com/chat) (Official AI Assistant)
 **The Enterprise Agentic RAG Platform for Litecoin.**
-The official AI-powered conversational tool for the Litecoin Foundation. I architected the full RAG pipeline, engineered for reliability and high-concurrency traffic.
+The official AI interface for the Litecoin Foundation. I architected the full RAG pipeline and engineered a **reverse-proxy integration** to seamlessly deploy this modern microservice under the existing `litecoin.com` domain.
 * **Status:** 🟢 **Live / Production**
 * **Tech:** Python (FastAPI), Next.js, Payload CMS, Redis, MongoDB Vector Search.
 * **Key Features:** Conversational Memory, 7-Layer Abuse Prevention Stack, Semantic Caching.
@@ -32,25 +32,25 @@ The official AI-powered conversational tool for the Litecoin Foundation. I archi
 #### 2. [Citeio.com](https://citeio.com) (SaaS Product)
 **Intelligent Media Analysis.**
 A proprietary SaaS platform that transforms long-form video/audio into a queryable knowledge base. It ingests media, generates time-coded transcripts, and enables deep semantic search.
-* **Status:** 🟡 **Live Archive** (Reference Implementation)
+* **Status:** 🟡 **Read-Only Reference Deployment**
 * **Tech:** Python, Celery, Google Gemini, Cloudflare Tunnels.
 * **Scale:** Processed 1,888 files, extracted 43,693 topics, indexed 59+ days of content.
 * **Links:** [🌐 Live App](https://citeio.com)
 
 #### 3. [OrdLite.io](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) (First Mover)
 **The First Litecoin Ordinals Explorer.**
-I **bootstrapped** the Litecoin Ordinals ecosystem by funding the development bounty ([covered by Binance](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize the chain data.
+I **catalyzed** the Litecoin Ordinals ecosystem by funding the development bounty ([covered by Binance](https://www.binance.com/en/square/post/237666)), then shipped the first explorer to visualize the chain data.
 * **Status:** ⚪ **Archived** (Historical Reference)
 * **Tech:** Next.js, Express (Node.js), PostgreSQL (Prisma), BTCPayServer.
-* **Innovation:** Full-stack integration of crypto payments for on-chain data storage.
+* **Impact:** Visualized data for over **30 million inscriptions**.
 * **Links:** [💻 GitHub Repo](https://github.com/IndigoNakamoto/Litecoin-Ordinals-Explorer) | [📜 Bounty Thread](https://x.com/indigo_nakamoto/status/1624247793438322689)
 
 #### 4. [Litecoin.com/Projects](https://litecoin.com/projects) (Ecosystem)
 **Community Infrastructure.**
-A clean, modern directory for managing open-source projects and donations within the ecosystem.
+A clean, modern directory for managing open-source projects and donations within the ecosystem, integrated into the main domain via reverse proxy.
 * **Status:** 🟢 **Active / Production**
 * **Tech:** Next.js, TypeScript, Tailwind CSS.
-* **Impact:** Supporting 19 FOSS projects with **$62,418+ raised** and **$54,289+ matched** in donations.
+* **Impact:** Supporting 19 FOSS projects with **$62,418+ raised** and **$54,289+ matched**.
 * **Links:** [🌐 Live App](https://litecoin.com/projects)
 
 ---
@@ -82,8 +82,12 @@ Before building systems, I research the theory behind them. I have been using LL
 
 ---
 
-### Contact
-I am available for **Enterprise Consulting** (De-risking AI integration), **Fractional Architecture** (Unifying fragmented ecosystems), and **High-Velocity Prototyping** (MVP in weeks, not months).
+### Let's Work Together
+I'm available for:
+* **Enterprise AI Consulting**: De-risk your AI integration with battle-tested patterns.
+* **Fractional Architecture**: Unify fragmented systems (integrating modern microservices into legacy domains).
+* **Rapid Prototyping**: Ship MVPs in weeks, not months.
 
+**Reach me on X**:
 * **Twitter/X:** [@indigo_nakamoto](https://x.com/indigo_nakamoto)
 * **Location:** San Francisco Bay Area
