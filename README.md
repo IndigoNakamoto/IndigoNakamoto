@@ -1,25 +1,6 @@
 # Hi, I'm Indigo.
 
-*Building the bridge between UTXO Blockchains and Artificial Intelligence.*
-
-AI-Native Product Engineer | Systems Architect | Crypto-Economic Theorist
-
-I specialize in **high-velocity prototyping** and **secure systems architecture**. I orchestrate AI agents and modern tooling to build enterprise-grade infrastructure significantly faster than traditional teams. I've been exploring AI-assisted development workflows since the GPT-3 beta era, pioneering techniques that are now becoming industry standard.
-
-My focus is on the intersection of **Artificial Intelligence (RAG/Vector Search)** and **Decentralized Finance (UTXO Blockchains)**.
-
----
-
-### The Philosophy: "The Architect Who Ships"
-With AI-assisted development, I operate as a **Force Multiplier**. By leveraging AI-native workflows (Cursor, Cline, Gemini), I automate implementation details to focus on high-leverage decisions: **System Design, Network Topology, and Security.**
-
-* **Velocity:** Shipped **production-grade** infrastructure (9 Microservices / Full-Stack Enterprise Architecture) in **44 days (solo)**.
-* **Security:** Architected a 7-Layer Abuse Prevention Stack (Atomic Rate Limiting, HMAC, Turnstile).
-* **Reliability:** Designing for 99.9% uptime and <50ms latency.
-
----
-
-### Featured Work
+### Featured Builds
 
 #### 1. [Litecoin.com/chat](https://litecoin.com/chat) (Official AI Assistant)
 **The Enterprise Agentic RAG Platform for Litecoin.**
