@@ -1,12 +1,13 @@
 # Indigo Nakamoto
-**Applied AI / Full-Stack Engineer · production RAG and Next.js**
+**Applied AI / Full-Stack Engineer · production RAG and Next.js**  
 SF Peninsula · Bay Area hybrid or US remote
 
 I ship and operate user-facing product surfaces with explicit spend, auth, and retrieval-miss behavior.
 
+How I work: an agent drafts and reconciles; I keep one live spec and retire the old one the hour it is wrong. A named person owns every fact that ships. Blocking work leaves before extras. I assume the other side is competent. I tell you the weak fact before it is designed in.
+
 **Current — Litecoin Foundation contractor**, Dec 2025–present.  
 Listed as Applications Developer for Projects/Chat. Built and operate:
-
 - [litecoin.com/chat](https://litecoin.com/chat) — grounded RAG
 - [litecoin.com/projects](https://litecoin.com/projects) — public funding board
 
@@ -42,6 +43,9 @@ Public prototype. Not independently reviewed for funds safety. BDK ported to Lit
 **Citeio** — media ingest → transcript → topics → semantic search. [Repo](https://github.com/IndigoNakamoto/Citeio.com).
 
 ## Seeking
+
 Mid-to-senior IC on a production crypto or grounded-AI product surface. Bay Area hybrid or US remote.
+
+I am hired to run the spec, the gates, and the mailbox — not to generate past the metric you pay for.
 
 UCSC B.A. Business Management Economics, 2011 · Hack Reactor, 2016
