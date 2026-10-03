@@ -1,4 +1,4 @@
-# Indigo Nakamoto
+# Indigo
 **Applied AI / Full-Stack Engineer · production RAG and Next.js**  
 SF Peninsula · Bay Area hybrid or US remote
 
