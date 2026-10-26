@@ -34,7 +34,7 @@ Board-displayed totals as of Sep 2026 (ecosystem history; not revenue I generate
 
 ## Also shipped
 
-**Litecoin Dev Kit** — [github.com/LitecoinDevKit](https://github.com/LitecoinDevKit)  
+**Litecoin Dev Kit** — [litecoindevkit.com](https://litecoindevkit.com) · [github.com/LitecoinDevKit](https://github.com/LitecoinDevKit)  
 Public prototype. Not independently reviewed for funds safety. BDK ported to Litecoin with MWEB (peg-in/out, combined balances, LIP-0006 sync), UniFFI bindings, Tauri desktop wallet (macOS/Linux). Guidance from Litecoin contributors. Listed on the [projects board](https://litecoin.com/projects/litecoin-dev-kit).  
 [Adoption guide](https://github.com/LitecoinDevKit/bdk/blob/litecoin/docs/ADOPTION.md) · [Desktop wallet](https://github.com/LitecoinDevKit/ltc-wallet-mac)
 
